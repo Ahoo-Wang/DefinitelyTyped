@@ -10,6 +10,7 @@
 /// <reference path="gallery.d.ts" />
 /// <reference path="geolocation.d.ts" />
 /// <reference path="webview.d.ts" />
+/// <reference path="messaging.d.ts" />
 interface plusError {
     code: number;
     message: string;
